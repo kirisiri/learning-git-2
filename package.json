@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kirisiri/learning-git-2/issues"
   },
-  "homepage": "https://github.com/kirisiri/learning-git-2#readme"
+  "homepage": "https://github.com/kirisiri/learning-git-2#readme",
+  "dependencies": {
+    "browser-sync": "^2.22.0"
+  }
 }
